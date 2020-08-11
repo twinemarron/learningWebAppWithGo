@@ -1,0 +1,10 @@
+chat/chat
+chat/config.ini
+chat/avatars
+commandLineTools/sprinkle/sprinkle
+commandLineTools/domainify/domainify
+commandLineTools/config.ini
+socialpoll/twittervotes/setup.sh
+socialpoll/db/
+meander/config.ini
+meander/cmd/meanderapi
